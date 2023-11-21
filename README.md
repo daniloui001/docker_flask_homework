@@ -24,6 +24,6 @@ docker-compose up -d   runs docker-compose in the background
 to stop containers: docker-compose down
 goes through applications running and stops them
 
-# Observatiosn
+# Observations
 
 Docker is similar to the applications we have previously worked with and while I may not understand to the fullest extent the benefits. I do see some possible uses for Docker. From the mindLAMP project I already have some experience with Docker as well.
